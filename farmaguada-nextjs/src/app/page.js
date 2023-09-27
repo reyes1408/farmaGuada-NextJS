@@ -1,10 +1,17 @@
+
 import react from "react"
-import Header from "./pages/Header"
-import Nav from "./pages/Nav"
+
+import Header from "./components/Header"
+import Nav from "./components/Nav"
+import Slide from "./components/Slide"
 
 export default function Home() {
+
   return (
-    <Header />,
-    <Nav />
+    <>
+      <Header />
+      <Nav />
+      <Slide />
+    </>
   )
 }

@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Blinker:wght@200;400;600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Blinker", sans-serif;
+    position: relative;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* global */
+.container {
+    /* margin: 0% 5% 5% 5%; */
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    /* box-shadow: 0px 0px 6px rgba(82, 82, 85, 0.2); */
+}
+
+.row-item {
+    /* outline: 2px solid rgba(0, 0, 0, 0.205); */
+    cursor: pointer;
+    transition: all 0.15s ease-in;
+}
+
+.row-item:hover {
+    /* outline: 2px solid rgba(0, 0, 0, 0.6); */
+    box-shadow: 0px 0px 6px rgba(34, 62, 224, 0.2);
+}
+
+.trending {
+    margin: 2%;
+    height: 55vh;
+    text-align: center;
+    box-shadow: 0px 0px 6px rgba(82, 82, 85, 0.2);
+}
+
+.trending p {
+    padding-top: 2vh;
+    font-size: xx-large;
+    font-weight: 200;
+}
+
+.item-header img {
+    width: 140px;
+}
+
+.item-description {
+    font-size: 1.7rem;
+    padding: 1rem;
+}
+
+.row-container {
+    display: flex;
+    gap: 2.2rem;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    position: relative;
+    padding: 1rem 0.6rem;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.row-container::-webkit-scrollbar {
+    display: none;
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.title-btns {
+    position: relative;
+    padding: 10% 1% 0% 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btns button {
+    color: gray;
+    /* background-color: #373737; */
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: none;
+    height: 4rem;
+    width: 4rem;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+
+.btns {
+    display: flex;
+    gap: 0.4rem;
+}
+
+.item-price {
+    font-weight: 600;
+    font-size: 2.2rem;
+    margin-top: 1.4rem;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
