@@ -1,5 +1,5 @@
 nav {
-    /* position: fixed; */
+    position: fixed;
     margin: 0%;
     padding: 0%;
     width: 100%;
@@ -9,7 +9,7 @@ nav {
     padding-top: -1%;
     /* overflow: hidden; */
     z-index: 2;
-    
+    margin-bottom: 10vh;
 }
 
 input {
@@ -24,6 +24,25 @@ li {
     list-style: none;
     text-align: center;
     font-size: large;
+}
+
+#div-envios{
+    background-color: #019FE3;
+    width: 100%;
+    height: 6vh;
+    padding-top: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* font-size: larger; */
+    letter-spacing: 1px;
+}
+
+#div-envios p {
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
 }
 
 #nav-principal {
@@ -43,6 +62,32 @@ li {
     display: flex;
     width: 55%;
 }
+
+#nav-principal-list a {
+    font-size: small;
+    font-weight: 600;
+}
+
+
+.nav-div-li {
+    margin-right: 5%;
+}
+
+.li2 {
+    border-right: 1px solid #CACCCE;
+    padding-left: 3%;
+    display: flex;
+    padding-right: 4%;
+}
+
+#nav-div-li-first {
+    padding-left: 6%;
+    padding-right: 3%;
+    display: flex;
+    border-right: 1px solid #CACCCE;
+}
+
+
 
 #nav-barSerch {
     width: 100%;

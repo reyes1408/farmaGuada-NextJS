@@ -15,9 +15,6 @@ const SectionOnline = () => {
                 <img src="https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/images/content/site/home_page/categoria/categoria_4/9_septiembre/semana_1/H_CAT_4_D_23.jpg"
                     alt="" />
             </section>
-            <div id="div-ofertas-linea">
-                <h1>Lo Más Buscado</h1>
-            </div>
         </>
     )
 }

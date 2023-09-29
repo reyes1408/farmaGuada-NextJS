@@ -1,0 +1,111 @@
+#footer-body {
+    width: 100%;
+    height: 70vh;
+    background-color: #1E86C5;
+}
+
+.formas-pago {
+    width: 100%;
+    height: 8vh;
+    background-color: white;
+    display: flex;
+}
+.pago-seguro {
+    display: flex;
+    width: 50%;
+    padding: 15px 0px 0px 50px;
+}
+
+.formas-pago p{
+    font-size: medium;
+    font-weight: 700;
+    color: #1f478d;
+}
+
+.formas-pago img {
+    height: 3vh;
+    padding: 0% 2% 0% 2%;
+}
+
+.compra-segura {
+    padding: 15px 50px 0px 0px;
+    justify-content: right;
+    width: 50%;
+    display: flex;
+}
+
+.secciones-footer {
+    width: 100%;
+    display: flex;
+    font-size: small;
+    font-weight: 400;
+    color: white;
+}
+
+.secciones-footer a {
+    margin-bottom: 15px;
+    display: block;
+    color: white;
+}
+.secciones-centro-footer p {
+    margin-bottom: 15px;
+    display: block;
+}
+
+.secciones-extremo-footer {
+    width: 23%;
+    padding: 2%;
+}
+
+.secciones-centro-footer {
+    width: 18%;
+    padding: 2%;
+}
+
+.img-logo-footer {
+    margin-bottom: 20px;
+}
+
+.img-boletin-oferta {
+    width: 130px;
+    margin-top: 15px;
+}
+.img-boletin-oferta {
+    width: 130px;
+}
+
+.secciones-extremo-footer a {
+    margin-bottom: 0%;
+    display: block;
+    color: white;
+}
+
+.information-footer {
+    width: 100%;
+    height: 19vh;
+    padding-top: 10vh;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+#volver {
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    width: 40px;
+    height: 40px;
+    background-color: #166494;
+    border-radius: 50%;
+    padding-top: 5px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 300;
+    color: white;
+    opacity: 0.7;
+}
+
+#volver:hover {
+    background-color: #01579b;
+    border: 4px solid #0277BD;
+}

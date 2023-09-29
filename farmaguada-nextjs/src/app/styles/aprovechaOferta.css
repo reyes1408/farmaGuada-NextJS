@@ -5,6 +5,10 @@
     padding-bottom: 5%;
 }
 
+#section-aprovechaOfertas h1{
+    padding: 1%;
+}
+
 .section-aprovechaOfertas-div {
     width: 100%;
     display: flex;

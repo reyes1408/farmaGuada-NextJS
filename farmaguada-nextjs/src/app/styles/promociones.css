@@ -1,7 +1,7 @@
 /* styles/Carousel.module.css */
 .carousel {
     display: flex;
-    margin: 2% 0% 0% 2%;
+    margin: 2% 0% 2% 2%;
     width: 100%;
     height: 435px;
     overflow: hidden;
@@ -20,10 +20,4 @@
 
 .slide img {
     object-fit: cover;
-}
-
-.section-singleImg {
-    padding: 5% 0% 3% 5%;
-    width: 70%;
-    height: fit-content;
 }

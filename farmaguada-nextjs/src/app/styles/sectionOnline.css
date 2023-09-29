@@ -2,9 +2,14 @@
     margin: 4% 3% 4% 3%;
     box-shadow: 0px 0px 6px rgba(49, 50, 51, 0.2);
     height: 13vh;
-    padding-top: 1%;
+    padding-top: 2%;
     background-color: white;
     text-align: center;
+}
+
+#div-ofertas-linea h1{
+    font-size: xx-large;
+    font-weight: 500;
 }
 
 #section-online {
