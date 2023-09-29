@@ -1,0 +1,17 @@
+#section-aprovechaOfertas {
+    background-color: white;
+    margin: 2% 0% 2% 0%;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.section-aprovechaOfertas-div {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 3%;
+}
+
+#section-aprovechaOfertas img {
+    width: 20%;
+}

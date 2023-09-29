@@ -1,0 +1,42 @@
+#div-art-int {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#div-art-int div {
+    width: 20%;
+    text-align: center;
+}
+
+#div-art-int div a{
+    color: #01579b;
+    font-size: larger;
+}
+
+#div-art-int div a:hover{
+    text-decoration: underline;
+    color: #302F31;
+    font-size: medium;
+}
+
+#div-art-int div div img{
+    width: 500%;
+    border: 15px solid #ffffff;
+}
+
+#section-art-a {
+    color: #01579b;
+    font-size: larger;
+    font-weight: 400;
+    border-radius: 20px;
+    background-color: white;
+    width: 200px;
+    border: 1px solid #01579b;
+    padding: 5px 10% 5px 10%;
+}
+
+#section-interesante {
+    background-color: #F1F1F1; 
+    text-align: center; 
+    padding: 1%;
+}

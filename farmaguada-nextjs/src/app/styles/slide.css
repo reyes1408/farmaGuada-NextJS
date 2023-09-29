@@ -18,8 +18,8 @@ html {
 
 /* global */
 .container {
-    /* margin: 0% 5% 5% 5%; */
-    max-width: 100%;
+    background-color: white;
+    width: 100%;
     display: flex;
     justify-content: center;
     overflow: hidden;
@@ -28,6 +28,8 @@ html {
 
 .row-item {
     /* outline: 2px solid rgba(0, 0, 0, 0.205); */
+    width: 227px;
+    padding: 20px;
     cursor: pointer;
     transition: all 0.15s ease-in;
 }
@@ -39,32 +41,36 @@ html {
 
 .trending {
     margin: 2%;
+    width: 96%;
     height: 55vh;
     text-align: center;
     box-shadow: 0px 0px 6px rgba(82, 82, 85, 0.2);
 }
 
+.trending h2{
+    padding-top: 3vh;
+    background-color: white;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
 .trending p {
     padding-top: 2vh;
-    font-size: xx-large;
-    font-weight: 200;
+    font-size: large;
+    font-weight: 300;
 }
 
 .item-header img {
-    width: 140px;
-}
-
-.item-description {
-    font-size: 1.7rem;
-    padding: 1rem;
+    width: 180px
 }
 
 .row-container {
     display: flex;
+    width: 95%;
     gap: 2.2rem;
     overflow-x: scroll;
     overflow-y: hidden;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     scroll-behavior: smooth;
     position: relative;
     padding: 1rem 0.6rem;
@@ -101,12 +107,6 @@ html {
 .btns {
     display: flex;
     gap: 0.4rem;
-}
-
-.item-price {
-    font-weight: 600;
-    font-size: 2.2rem;
-    margin-top: 1.4rem;
 }
 
 .link {

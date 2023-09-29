@@ -1,0 +1,19 @@
+#div-ofertas-linea{
+    margin: 4% 3% 4% 3%;
+    box-shadow: 0px 0px 6px rgba(49, 50, 51, 0.2);
+    height: 13vh;
+    padding-top: 1%;
+    background-color: white;
+    text-align: center;
+}
+
+#section-online {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+}
+
+#section-online img {
+    width: 22%;
+    background-color: #F1F1F1;
+}

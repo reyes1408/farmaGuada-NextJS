@@ -1,0 +1,8 @@
+#section-complemento {
+    display: flex;
+    justify-content: space-around;
+}
+
+#section-complemento img {
+    width: 47%;
+}

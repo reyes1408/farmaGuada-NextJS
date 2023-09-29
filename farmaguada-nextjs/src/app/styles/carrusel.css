@@ -1,0 +1,28 @@
+/* styles/Carousel.module.css */
+.carousel {
+    display: flex;
+    margin: 2% 0% 0% 2%;
+    width: 85%;
+    height: 550px;
+    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+.slide {
+    display: flex;
+    width: 100%;
+    transition: transform 10s ease;
+}
+
+.slide img {
+    object-fit: cover;
+}
+
+.section-singleImg {
+    padding: 5% 0% 3% 5%;
+    width: 80%;
+    height: fit-content;
+}
