@@ -31,12 +31,13 @@ const Carrusel = () => {
     setInterval(nextSlide, intervalTime);
 
     return (
-        <div style={{ display: "flex", paddingTop: "21vh"}}>
+        <div style={{ display: "flex", paddingTop: "21vh", margin: "0% 2% 2% 2%"}}>
             <div className="carousel">
                 <div className="slide" ref={slideRef}>
                     {images.map((src, index) => (
                         <img src={src} alt={`Image ${index + 1}`} key={index} />
                     ))}
+                    <h1>Hola</h1>
                 </div>
             </div>
             <div>

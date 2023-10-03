@@ -32,8 +32,8 @@ const Promociones = () => {
 
     return (
         <div style={{ display: "flex"}}>
-            <div className="carousel">
-                <div className="slide" ref={slideRef}>
+            <div className="carousel2">
+                <div className="slide2" ref={slideRef}>
                     {images.map((src, index) => (
                         <img src={src} alt={`Image ${index + 1}`} key={index} />
                     ))}

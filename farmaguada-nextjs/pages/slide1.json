@@ -1,0 +1,76 @@
+{
+  "slide1": [
+    {
+      "id": 1,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1314912_A_168_AL.jpg",
+      "nombre": "NEUTEK",
+      "descripcion": " Monitor Neutek de Presión Sanguínea Automático de Muñeca, 1 pz."
+    },
+    {
+      "id": 2,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1405004_A_168_AL.jpg",
+      "nombre": "Staquis",
+      "descripcion": " Staquis 2% Ungüento, 30 gr."
+    },
+    {
+      "id": 3,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1406159_A_168_AL.jpg",
+      "nombre": "MICROBIOT",
+      "descripcion": " Microbiot Fit 180 mg, 30 Cápsulas."
+    },
+    {
+      "id": 4,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1379577_A_168_AL.jpg",
+      "nombre": "BACFIL",
+      "descripcion": " Bacfil 6 gr, 30 Sobres."
+    },
+    {
+      "id": 5,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1357522_A_168_AL.jpg",
+      "nombre": "PHARMALIFE",
+      "descripcion": " Esomeprazol 40 mg, 28 Tabletas Pharmalife."
+    },
+    {
+      "id": 6,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/10855_A_168_AL.jpg",
+      "nombre": "DOLO-NEUROBIÓN",
+      "descripcion": " Dolo-Neurobión Forte, 30 Tabletas."
+    },
+    {
+      "id": 7,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/942596_A_168_AL.jpg",
+      "nombre": "CIALIS",
+      "descripcion": " Cialis 20 mg, 4 Tabletas."
+    },
+    {
+      "id": 8,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/950211_A_168_AL.jpg",
+      "nombre": "SINUBERASE",
+      "descripcion": " Sinuberase Probióticos Suspensión Basillus Clausii"
+    },
+    {
+      "id": 9,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/994006_A_168_AL.jpg",
+      "nombre": "Vermox Plus",
+      "descripcion": "  Vermox Plus 300mg/150mg, 2 Tabletas."
+    },
+    {
+      "id": 10,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1136992_A_168_AL.jpg",
+      "nombre": "Cetaphil",
+      "descripcion": " Cetaphil Crema Hidratante, 453 gr."
+    },
+    {
+      "id": 11,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1153862_A_168_AL.jpg",
+      "nombre": "Similac",
+      "descripcion": " Fórmula Infantil Similac Total Comfort 2 Sabor a Vainilla (Edad 1 a 3 Años), 820 gr."
+    },
+    {
+      "id": 12,
+      "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/63541_A_168_AL.jpg",
+      "nombre": "Aldactone",
+      "descripcion": " Aldactone A 25 mg, 30 Tabletas."
+    }
+  ]
+}

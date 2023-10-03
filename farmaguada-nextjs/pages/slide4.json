@@ -1,0 +1,76 @@
+{
+    "slide4": [
+        {
+            "id": 1,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1358642_S_168_F.jpg",
+            "nombre": "Falcon",
+            "descripcion": "  Proteína en Polvo Falcon Performance Sabor Golden Vanilla, 42 gr."
+        },
+        {
+            "id": 2,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1358634_S_168_F.jpg",
+            "nombre": "Falcon",
+            "descripcion": " Proteína en Polvo Falcon Performance Sabor Golden Vanilla, 42 gr."
+        },
+        {
+            "id": 3,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1254812_A_168_AL.jpg",
+            "nombre": "Falcon",
+            "descripcion": " Proteína en Polvo Falcon Sabor Vainilla, 510 gr."
+        },
+        {
+            "id": 4,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/52221_A_168_AL.jpg",
+            "nombre": "AKABAR",
+            "descripcion": " Akabar 200 mg, 16 Cápsulas."
+        },
+        {
+            "id": 5,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/52213_A_168_AL.jpg",
+            "nombre": "AKABAR",
+            "descripcion": " Akabar Suspensión, 90 ml."
+        },
+        {
+            "id": 6,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/941557_A_168_AL.jpg",
+            "nombre": "HUGGIES",
+            "descripcion": " Pañales para Bebé Huggies UltraConfort Unisex Etapa 2, 40 pzas"
+        },
+        {
+            "id": 7,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/947105_A_168_AL.jpg",
+            "nombre": "KLEENBEBE",
+            "descripcion": " Pañales para Bebé KleenBebé Suavelastic Etapa 4 Talla G, 40 pzas."
+        },
+        {
+            "id": 8,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/974137_A_168_AL.jpg",
+            "nombre": "CHICOLASTIC",
+            "descripcion": " Pañal Kiddies Antifugas Talla 5 X Grande, 40 pañales."
+        },
+        {
+            "id": 9,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1298500_A_168_AL.jpg",
+            "nombre": "CERAVE",
+            "descripcion": " CeraVe Barra Limpiadora Hidratante, 128 gr."
+        },
+        {
+            "id": 10,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1136992_A_168_AL.jpg",
+            "nombre": "Cetaphil",
+            "descripcion": " Cetaphil Crema Hidratante, 453 gr."
+        },
+        {
+            "id": 11,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1153862_A_168_AL.jpg",
+            "nombre": "Similac",
+            "descripcion": " Fórmula Infantil Similac Total Comfort 2 Sabor a Vainilla (Edad 1 a 3 Años), 820 gr."
+        },
+        {
+            "id": 12,
+            "img": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/63541_A_168_AL.jpg",
+            "nombre": "Aldactone",
+            "descripcion": " Aldactone A 25 mg, 30 Tabletas."
+        }
+    ]
+}

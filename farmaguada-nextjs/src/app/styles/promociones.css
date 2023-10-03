@@ -1,5 +1,5 @@
 /* styles/Carousel.module.css */
-.carousel {
+.carousel2 {
     display: flex;
     margin: 2% 0% 2% 2%;
     width: 100%;
@@ -11,13 +11,13 @@
     position: relative;
 }
 
-.slide {
+.slide2 {
     display: flex;
     width: 100%;
     height: auto;
     transition: transform 10s ease;
 }
 
-.slide img {
+.slide2 img {
     object-fit: cover;
 }
